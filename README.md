@@ -1,5 +1,4 @@
-
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/gaipoi/posts.svg)](http://qiita.com/gaipoi) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/gaipoi/contributions.svg)](http://qiita.com/gaipoi) [![My Qiita followers](https://qiita-badge.apiapi.app/s/gaipoi/followers.svg)](http://qiita.com/gaipoi)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/gaipoi/contributions.svg)](http://qiita.com/gaipoi)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=gaipoi)](https://github.com/ryo-ma/github-profile-trophy)
 
